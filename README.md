@@ -4,10 +4,10 @@
 A Python-based data collection pipeline that gathers publicly available social media posts via APIs and stores them in a structured SQL database for downstream analytics and machine learning tasks.
 
 ## Tech Stack
-- Python
+- Python - Fast API
 - Twitter (X) API v2
-- SQLite
-- SQLAlchemy
+- PSQL
+- Flutter
 
 ## Features
 - Modular API data collection
